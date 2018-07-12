@@ -1,0 +1,6 @@
+A tool to jog your Marlin-based printer with a joystick.
+Right now in proof of concept stage.
+
+- connect your printer to /dev/ttyUSB0
+- connect a joystick
+- start plotjog.py
